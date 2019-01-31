@@ -13,7 +13,4 @@ INSERT INTO User (id, username, password, salary, age) VALUES (3, 'naruto', '$2a
 INSERT INTO User (id, username, password, salary, age) VALUES (4, 'sakura', '$2a$04$I9Q2sDc4QGGg5WNTLmsz0.fvGv3OjoZyj81PrSFyGOqMphqfS2qKu', 4234, 40);
 
 
--- hendi / password
--- sasuke / password
--- naruto / password
--- sakura / password
+-- Password is same as username
